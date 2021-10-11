@@ -6,5 +6,5 @@
 - Trying to reach JS dzen)
 
 <img src="https://github-readme-stats.vercel.app/api?username=CommanderCoolDev&show_icons=true&theme=merko">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderCoolDev&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderCoolDev&layout=compact&show_icons=true&theme=merko">
 
