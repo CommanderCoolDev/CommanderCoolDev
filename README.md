@@ -1,10 +1,9 @@
-### Hi there, good people 👋
+### Greetings!!!!
 
 
-- 🌱  I’m currently learning JavaScript & React & Node
-- 🤓  I’m eager to learn from more experienced programmers and open to structured criticism 
-- 💬  You can ask me how to start learning JS and not give up in this 🤗 
-- 📫  How to reach me: ruslanalogosha@gmail.com, [LinkedIn](https://www.linkedin.com/in/ruslana-logosha-674b9241/)
-- ⚡   It's not fun but it's fact: I'm Harry Potter's fan forever :)
+
+- It's not fun but it's fact: I'm Harry Potter's fan forever :)
+- I’m currently learning JavaScript & React & Node
+- My contacts: dglebovdev@gmail.com, [LinkedIn](https://www.linkedin.com/in/dmitriy-glebov-9aa614210/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=CommanderCoolDev&show_icons=true&theme=merko">
