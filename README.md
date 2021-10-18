@@ -7,6 +7,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=CommanderCoolDev&show_icons=true&theme=merko">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CommanderCoolDev&layout=compact&show_icons=true&theme=merko">
-![Profile views](https://gpvc.arturio.dev/CommanderCoolDev)
+![Profile views](https://gpvc.arturio.dev/Commander-Cool-Dev)
 
 
