@@ -1,5 +1,5 @@
 ### Greetings!!!!
-
+  Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.
 
 - I’m currently learning JavaScript & React & Node
 - Trying to reach JS dzen)
