@@ -2,7 +2,6 @@
 
 
 - I’m currently learning JavaScript & React & Node
-- My contacts: dglebovdev@gmail.com, [LinkedIn](https://www.linkedin.com/in/dmitriy-glebov-9aa614210/)
 - Trying to reach JS dzen)
 
  [![CommanderCoolDev telegram](https://img.shields.io/badge/Telegram-%40KAPELLLAN-blue?style=plastic&logo=telegram&link=https://t.me/theneonwhale)](https://t.me/KAPELLLAN)
